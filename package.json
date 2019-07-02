@@ -1,0 +1,19 @@
+{
+  "name": "myjupyterworkflow",
+  "version": "1.0.0",
+  "description": "Jupyter Workflow practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "python -m pytest jupyterworkflow"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vedraiyani/MyJupyterWorkflow.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vedraiyani/MyJupyterWorkflow/issues"
+  },
+  "homepage": "https://github.com/vedraiyani/MyJupyterWorkflow#readme"
+}
